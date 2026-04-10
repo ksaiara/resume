@@ -1,10 +1,15 @@
 # Jobs
-# Work Experience #1
-- company: Dunkin Donuts
-  position: Crew Member 
-  duration: Aug, 2023 &mdash; Sept, 2023
-  summary: customer service, sandwichstation, making drinks and serving, cleaning, Showing up on time and maintaining ethical work-communication, working with others
+#Volunteer #2
+- company: Space Frontier Foundation
+  position: Newletter Editor
+  duration:   Jan, 2026  &mdash; Present
+  summary:  Authored persuasive newsletter content advocating for Space-Based Solar Power, distilling complex physics and efficiency data into compelling arguments for the transition to orbital energy harvesting.
 
+  # Volunteer #1
+- company: Udvar Hazy Air and Space Museum
+  position: Discovery Station Manager
+  duration:   Dec, 2023  &mdash; Feb, 2025
+  summary:  I engage with visitors, sharing my enthusiasm for aviation and highlighting female pioneers in the field.
 
 #Work Experience #2
 - company: Micheals
@@ -12,16 +17,12 @@
   duration: Oct, 2023 &mdash; Dec, 2023 
   summary: Organizational skills, Help customers with checkout, locate products, providing creative solutions to customers. 
 
+# Work Experience #1
+- company: Dunkin Donuts
+  position: Crew Member 
+  duration: Aug, 2023 &mdash; Sept, 2023
+  summary: customer service, sandwich station, making drinks and serving, cleaning, Showing up on time and maintaining ethical work-communication, working with others
 
-# Volunteer #1
-- company: Udvar Hazy Air and Space Museum
-  position: Discovery Station Manager
-  duration:   Dec, 2023  &mdash; Feb, 2025
-  summary:  I engage with visitors, sharing my enthusiasm for aviation and highlighting female pioneers in the field.
 
 
-  #Volunteer #2
-- company: Space Frontier Foundation
-  position: Newletter Editor
-  duration:   Jan, 2026  &mdash; Present
-  summary:  Authored persuasive newsletter content advocating for Space-Based Solar Power, distilling complex physics and efficiency data into compelling arguments for the transition to orbital energy harvesting.
+  
